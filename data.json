@@ -1,0 +1,61 @@
+{
+  "cats": [
+    {
+      "id": "hunting",
+      "icon": "🎯",
+      "title": "Hunting & Seguimiento",
+      "locked": false,
+      "order": 0
+    },
+    {
+      "id": "hubspot",
+      "icon": "🤝",
+      "title": "HubSpot & CRM",
+      "locked": false,
+      "order": 1
+    },
+    {
+      "id": "playbooks",
+      "icon": "📘",
+      "title": "Playbooks",
+      "locked": false,
+      "order": 2
+    },
+    {
+      "id": "bi",
+      "icon": "📊",
+      "title": "Power BI & Dashboards",
+      "locked": false,
+      "order": 3
+    },
+    {
+      "id": "claude",
+      "icon": "🤖",
+      "title": "Claude & IA",
+      "locked": false,
+      "order": 4
+    },
+    {
+      "id": "tools",
+      "icon": "🛠️",
+      "title": "Herramientas & Tickets",
+      "locked": false,
+      "order": 5
+    },
+    {
+      "id": "compensacion",
+      "icon": "💰",
+      "title": "Compensaciones & Finanzas",
+      "locked": false,
+      "order": 6
+    },
+    {
+      "id": "leaders",
+      "icon": "🔒",
+      "title": "Recursos Líderes",
+      "locked": true,
+      "order": 7
+    }
+  ],
+  "links": []
+}
